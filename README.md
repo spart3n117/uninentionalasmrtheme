@@ -1,0 +1,13 @@
+# uninentionalasmrtheme
+This a theme based off of Naut for reddit.
+
+Updated 9/13/12 V.3.0
+
+Change made include:
+new link color
+new submit button text
+new moderator name
+submit button hover banner
+footer color
+background color
+flair
