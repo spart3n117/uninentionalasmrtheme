@@ -3,7 +3,7 @@ This a theme based off of Naut for reddit.
 
 Updated 9/13/12 v3.0
 
-Change made include:
+Changes include:
 new link color
 new submit button text
 new moderator name
