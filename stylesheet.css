@@ -45,7 +45,7 @@
 				box-shadow: none!important;
 				background-color: #fff;
 				border: 1px solid #e5e5e5;
-				color: #707070;
+				color: #0C0F21;
 				transition: all 0.15s ease!important;
 			}
 
@@ -1106,7 +1106,7 @@
 							}
 
 							/*Unvisited*/	.thing .title.loggedin.click, .thing .title.click, .thing .title.loggedin, .thing .title {color:#49AAEF;}
-							/*Visited  */	.content .thing .title:visited, .content .thing.visited .title {color: #08E0AF;}
+							/*Visited  */	.content .thing .title:visited, .content .thing.visited .title {color: #49AAEF;}
 							/*Clicking */	.thing .title.loggedin.click:visited, .thing .title.click:visited {color:#49AAEF;}
 
 
@@ -3039,4 +3039,10 @@ background-color: #51D8DE;
 background-color: #FFE10A;
 }
 
+.md {
+    color: #49AAEF;
+    max-width: 60em;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+}
 
