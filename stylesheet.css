@@ -1052,7 +1052,7 @@
 							height: 17px;
 							border-radius: 2px;
 							border: 0px solid;
-							color: #fff;
+							color: #0C0F21;
 							font-weight: bold;
 							font-style: normal;
 							font-variant: normal;
@@ -3010,4 +3010,33 @@
     font-weight:normal;
     content:"Please read the rules on the sidebar before posting."
 }
+
+.linkflair-male .linkflairlabel {
+background-color: #49AAEF;
+}
+
+.linkflair-female .linkflairlabel{
+background-color: #EF4951;
+}
+
+.linkflair-crafts .linkflairlabel{
+background-color: #EF9D49;
+}
+
+.linkflair-food .linkflairlabel{
+background-color: #49EF5D;
+}
+
+.linkflair-detail .linkflairlabel {
+background-color: #8949EF;
+}
+
+.linkflair-no-talking .linkflairlabel {
+background-color: #51D8DE;
+}
+
+.linkflair-text .linkflairlabel {
+background-color: #FFE10A;
+}
+
 
